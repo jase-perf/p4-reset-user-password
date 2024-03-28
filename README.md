@@ -9,7 +9,7 @@ The user will be given a new random password and will be required to change it u
 ![Usage Demo](images/Usage_Demo.gif)
 
 ## Installation
-1. Download the latest release from the [releases page]
+1. Download the latest release from the [releases page](https://github.com/jase-perf/p4-reset-user-password/releases)
 2. In P4Admin, go to **Tools -> Manage Tools -> Custom Tools...**
 3. Click **New -> Tool...**
 4. Name it `Reset User Password` (Or whatever you want)
