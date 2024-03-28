@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --distpath .\bin -n "p4-reset-user-password" .\app\main.py
