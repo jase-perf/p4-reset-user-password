@@ -1,2 +1,3 @@
 #!/bin/zsh
-pyinstaller --onefile -i "./images/bulk_creator_icon.icns" -n "P4 Bulk Creator" --distpath ./bin ./app/main.py
+pyinstaller --onefile -n "p4-reset-user-password (arm64
+)" --distpath ./bin ./app/main.py
