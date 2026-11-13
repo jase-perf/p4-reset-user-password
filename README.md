@@ -1,4 +1,8 @@
 # p4-reset-user-password
+
+> [!IMPORTANT]
+> **This tool now lives in the [Ultimate P4V Toolkit](https://jase.town/ultimate-p4v-toolkit/).** It's called Reset User Password there: a P4Admin Custom Tool you import from one XML file, for Windows or Mac, with no executable to download. Go to that page for setup steps and the rest of the toolkit.
+
 Quick tool for admins to reset user passwords to a random temporary password and require the user to make a new password.
 
 ## Usage
